@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, sou o Michael 👋
 
-<!--
-**Michaelrodriguesds/Michaelrodriguesds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack Júnior | React • Node.js • MongoDB • Flutter • Python
 
-Here are some ideas to get you started:
+Tecnólogo em Desenvolvimento Full Stack (Estácio) e cursando Técnico em
+Desenvolvimento de Sistemas (Senai, conclusão em 2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construí e mantenho dois projetos próprios em produção:
+
+- 🩷 **Glamour** — sistema de agenda e gestão para salão de beleza (Node.js, Express, Flutter, MongoDB)
+  🔗 [Ver aplicação](https://glamour-agenda.netlify.app/)
+- 💰 **LifeControl** — controle financeiro pessoal (Angular, FastAPI, MongoDB Atlas)
+  🔗 [Ver aplicação](https://lifecontrol-front.onrender.com/login)
+
+🌱 Aprendendo sempre, em busca da minha primeira oportunidade como desenvolvedor júnior.
+
+📫 Contato: Myshelrodrigues@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-rodrigues-4%C2%B0-b741a1104/) • [Portfólio](https://michaelrodriguesds.github.io/Portifolio/)
