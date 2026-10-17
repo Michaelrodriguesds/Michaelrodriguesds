@@ -15,4 +15,4 @@ Construí e mantenho dois projetos próprios em produção:
 🌱 Aprendendo sempre, em busca da minha primeira oportunidade como desenvolvedor júnior.
 
 📫 Contato: Myshelrodrigues@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/michael-rodrigues-4%C2%B0-b741a1104/) • [Portfólio](https://michaelrodriguesds.github.io/Portifolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/michaelrodrigues-dev) • [Portfólio](https://michaelrodriguesds.github.io/portfolio/)
